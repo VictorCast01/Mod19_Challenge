@@ -1,6 +1,6 @@
 ## Module 19 Jate PWA text Editor
 
-##Table of Contents
+## Table of Contents
 
 Description
 Visuals
@@ -16,7 +16,7 @@ This assignment is a text editor using the required Progressive Web Applications
 This is the screenshot of the site
 
 
-##Deployment
+## Deployment
 
 Link to the Text editor's repo on github
 
