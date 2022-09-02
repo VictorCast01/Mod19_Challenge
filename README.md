@@ -16,8 +16,6 @@ This assignment is a text editor using the required Progressive Web Applications
 This is the screenshot of the site
 
 
-
-
 ##Deployment
 
 Link to the Text editor's repo on github
